@@ -1,6 +1,6 @@
 # SW-RaspberryPi-Thonny-UART-006
 
-Here is simple uart code to receive data from your PC from develeopment board. I used CP2102.
+Here is simple uart code to receive data from your PC to develeopment board. I used CP2102.
 
 <img width="627" height="436" alt="intro" src="https://github.com/user-attachments/assets/67cbe4c2-8435-427c-bb6a-39e494b8ea09" />
 
