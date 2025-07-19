@@ -30,7 +30,7 @@ Here is simple uart code to receive data from your PC from develeopment board. I
 
 <img width="678" height="481" alt="received message" src="https://github.com/user-attachments/assets/de98c00e-ae30-4625-9f0c-3975dad03886" />
 
-(Send Message)
+(Get Message)
 
 
 
